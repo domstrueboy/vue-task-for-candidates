@@ -2,6 +2,8 @@
 
 Ссылка на задание - https://codepen.io/domstrueboy/pen/KKaGdJr
 
+![image](https://user-images.githubusercontent.com/4390354/115524572-bbdd1b00-a2a7-11eb-81da-f5dad32cdcdb.png)
+
 Что нужно сделать:
 1. Реализовать счётчик, который показывает количество незавершённых задач. Возможное решение - реализовать его как вычисляемое свойство:
    ```js
